@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-21 18:33:53,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+2025-09-23 18:34:50,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
@@ -25,7 +25,6 @@ CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
-CCTV-17,https://mgtv.ottiptv.cc/migu/673168256.m3u8?migutoken=549f447a71760fff3b00bc77e20b635782f8f1b649484af222d8b84873e49ef422088e12f72be410b13fcc2bc2b13116a000270e46fef922109f32f7c7e667093cd1f09a3c6d24484f34ab9287$订阅源
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
