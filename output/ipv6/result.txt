@@ -1,16 +1,14 @@
 🕘️更新时间,#genre#
-2025-09-29 18:35:36,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
+2025-10-01 18:33:47,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$订阅源
-CCTV-8,https://cc06.tv12.xyz/9.m3u8$订阅源
 CCTV-9,https://cc06.tv12.xyz/10.m3u8$订阅源
 CCTV-10,https://cc06.tv12.xyz/11.m3u8$订阅源
 CCTV-11,https://cc06.tv12.xyz/12.m3u8$订阅源
 CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
-CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13$订阅源
 CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
@@ -49,7 +47,6 @@ CCTV-17,https://cc06.tv12.xyz/17.m3u8$订阅源
 广西卫视,https://cc06.tv12.xyz/46.m3u8$订阅源
 贵州卫视,https://cc06.tv12.xyz/48.m3u8$订阅源
 海南卫视,https://cc06.tv12.xyz/93.m3u8$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河北卫视,https://cc06.tv12.xyz/51.m3u8$订阅源
 河南卫视,https://cc06.tv12.xyz/49.m3u8$订阅源
 吉林卫视,https://cc06.tv12.xyz/60.m3u8$订阅源
